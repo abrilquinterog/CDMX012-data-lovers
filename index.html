@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Data Lovers</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <section id="encab" class="encabezado">
+    <img id="bannerencabezado"src="assets/bannerpoke.png" alt="" >
+    </section>
+    <section class="contenedorbotones">
+    <button type="button" id="ascendente" class="ordenaz">ORDENAR A-Z</button>
+    <button type="button" id="descendente" class="ordenza">ORDENAR Z-A</button>
+    <img id="pokebola" src="assets/POKEBOLA.png" alt="">
+    <select name="tipo" id="tipo" class="ordenaz">
+      <option value="null" selected>SELECCIONA POR TIPO </option>
+      <option value="steel">Acero</option>
+      <option value="water">Agua</option>
+      <option value="bug">Bicho</option>
+      <option value="dragon">Dragón</option>
+      <option value="electric">Eléctrico</option>
+      <option value="ghost">Fantasma</option>
+      <option value="fire">Fuego</option>
+      <option value="fairy">Hada</option>
+      <option value="ice">Hielo</option>
+      <option value="grass">Hierba</option>
+      <option value="fighting">Lucha</option>
+      <option value="normal">Normal</option>
+      <option value="psychic">Psíquico</option>
+      <option value="rock">Roca</option>
+      <option value="dark">Siniestro</option>
+      <option value="ground">Tierra</option>
+      <option value="poison">Veneno</option>
+      <option value="flying">Volador</option>
+    </select>
+    <select name="resistencia" id="resistencia" class="ordenaz">
+      <option value="null"selected>SELECCIONA POR RESISTENCIA</option>
+      <option value="steel">Acero</option>
+      <option value="water">Agua</option>
+      <option value="bug">Bicho</option>
+      <option value="dragon">Dragón</option>
+      <option value="electric">Eléctrico</option>
+      <option value="ghost">Fantasma</option>
+      <option value="fire">Fuego</option>
+      <option value="fairy">Hada</option>
+      <option value="ice">Hielo</option>
+      <option value="grass">Hierba</option>
+      <option value="fighting">Lucha</option>
+      <option value="normal">Normal</option>
+      <option value="psychic">Psíquico</option>
+      <option value="rock">Roca</option>
+      <option value="dark">Siniestro</option>
+      <option value="ground">Tierra</option>
+      <option value="poison">Veneno</option>
+      <option value="flying">Volador</option>
+    </select>
+  </section>
+    <div id="root"></div>
+    <main id="allpokemon" class="contenedorTarjetas"> 
+      <section class="card">
+        <img src="" alt="" srcset="">
+        <h4></h4>
+        <h3></h3>
+      </section>
+      <section id="porcentaje" class="porcentajePoke">
+      </section>
+    </main>
+    <footer class="foot">
+        <button type="button" id="stats" class="estadisticas">ESTADÍSTICAS</button>
+    </footer>
+    <script src="main.js" type="module"></script>
+  </body>
+</html>
