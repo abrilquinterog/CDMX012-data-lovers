@@ -21,6 +21,14 @@ Fue prototipada en Figmaa y desarrollada con HTML, CSS y vanilla Javacript.
  </div>
 <br>
 
+
+Investigamos con una encuesta a jugadores del famoso juego pokemon GO! cuáles serían las características más relevantes que debería tener nuestra web para que la visitaran y fuera de utilidad para su desempeño en el juego. 
+<div>
+<img src="https://i.postimg.cc/1twf0Knp/inv01.png">
+<img src="https://i.postimg.cc/3NhWtDmz/inv02.png">
+<img src="https://i.postimg.cc/Y0x0Zqx0/inv03.png">
+  </div>
+  
 ### Boceto
 <img src="https://i.postimg.cc/cLt70z0q/photo1657480963.jpg">
 
