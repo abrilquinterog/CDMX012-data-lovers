@@ -20,7 +20,7 @@ Fue prototipada en Figmaa y desarrollada con HTML, CSS y vanilla Javacript.
     <img alt="figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png" width="60" height="80">
  </div>
 <br>
-
+## Investigación
 
 Investigamos con una encuesta a jugadores del famoso juego pokemon GO! cuáles serían las características más relevantes que debería tener nuestra web para que la visitaran y fuera de utilidad para su desempeño en el juego. 
 <div>
@@ -28,6 +28,12 @@ Investigamos con una encuesta a jugadores del famoso juego pokemon GO! cuáles s
 <img src="https://i.postimg.cc/3NhWtDmz/inv02.png">
 <img src="https://i.postimg.cc/Y0x0Zqx0/inv03.png">
   </div>
+<br>
+## Definición de Historias de Usuario
+
+  Resultado de nuestra investigación pudimos definir las Historias de usuario principales para el desarrollo de nuestro website.
+  <img src="https://i.postimg.cc/sg62Sgm9/DATA-LOVERS-POK-MON-1.png">
+<br>
   
 ### Boceto
 <img src="https://i.postimg.cc/cLt70z0q/photo1657480963.jpg">
