@@ -46,12 +46,42 @@ Yo como usuario de Pokémon Go! quiero ver a todos los personajes en la pantalla
 - Cada pokémon debe estar en un recuadro o sección diferente,
 - Cada recuadro debe contener la imagen, el nombre y el número de ese Pokemon
 - Al pasar el cursor se debe resaltar el recuadro seleccionado
+- Puedo verlo bien en mi celular y tableta
 
-### Definición de terminado
+#### Definición de terminado
 - Que se rendericen todos los personajes en la pantalla
 - Que cada uno de los personajes se encuentre dentro de una tarjeta con su nombre, numero e imagen
 - Que las tarjetas de encuentre ordenadas en un retícula uniforme
 - Que cuando el cursos se ubique en alguna de las tarjetas esta cambie de color o se ilumine
+- Que la página sea responsive
+
+### Historia de usuario 2
+
+Yo como usuario novato quiero ordenar a los pokémon de manera alfabetica en la pokedex para saber cuales son los que me falta por capturar.
+
+#### Criterios de aceptación
+- Debe existir un botón para ordenar de manera ascendente
+- Debe existir un botón para ordenar de manera descendente
+
+#### Definición de terminado
+- El botón ordenar AZ debe mostrar a los Pokémon de manera ascendente
+- El botón ordenar AZ debe mostrar a los Pokémon de manera Descendente
+
+### Historia de usuario 3
+
+Yo como jugador nivel avanzado en Pokemon Go, quiero que la página muestra una opción para filtrar los Pokemon por Tipo y Resistencia para elegir de mejor manera un pokemon en las batallas
+
+#### Criterios de aceptación
+- Debe mostrarse un botón que despliegue los tipos de pokemon
+- Debe existir un botón que despliegue los pokemones por resistencia.
+
+#### Definición de terminado
+- Debe existir un botón tipo dropdown que despliegue las opciones de tipo
+- Debe existir un botón tipo dropdown que despliegue las opciones de resistencia
+- Cuando el cursor esté sobre un tipo, este deberá iluminarse
+- Que se quedé iluminada la opción seleccionada
+- Deben mostrarse todos los pokemon correspondientes a la selección hecha por el usuario
+
 
  <img src="https://i.postimg.cc/L5Q4RDxP/Husuario.png">
 
