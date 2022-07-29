@@ -37,6 +37,22 @@ Investigamos con una encuesta a jugadores del famoso juego pokemon GO! cuáles s
   <img src="https://i.postimg.cc/sg62Sgm9/DATA-LOVERS-POK-MON-1.png">
 
 Cada historia de usuario fue creada con su definición de terminado y sus criterios de aceptación <br>
+
+### Historia de usuario 1
+
+Yo como usuario de Pokémon Go! quiero ver a todos los personajes en la pantalla para conocerlos. 
+
+#### Criterios de Aceptación
+- Cada pokémon debe estar en un recuadro o sección diferente,
+- Cada recuadro debe contener la imagen, el nombre y el número de ese Pokemon
+- Al pasar el cursor se debe resaltar el recuadro seleccionado
+
+### Definición de terminado
+- Que se rendericen todos los personajes en la pantalla
+- Que cada uno de los personajes se encuentre dentro de una tarjeta con su nombre, numero e imagen
+- Que las tarjetas de encuentre ordenadas en un retícula uniforme
+- Que cuando el cursos se ubique en alguna de las tarjetas esta cambie de color o se ilumine
+
  <img src="https://i.postimg.cc/L5Q4RDxP/Husuario.png">
 
   
