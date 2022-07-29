@@ -1,4 +1,5 @@
 # Data Lovers-Pokémon
+<img src="https://i.postimg.cc/QCdKX3Pt/DATA-LOVERS-POK-MON.png">
 
 ## Acerca del proyecto
 
@@ -11,7 +12,7 @@ Es una página responsive, puede ser visualizada en Desktop, Tablet y Smartphone
 El usuario también dispone de una sección de estadísticas con su visualización gráfica. 
 
 ### Boceto
-<img src="https://i.postimg.cc/cLt70z0q/photo1657480963.jpg" widht="600" height="550">
+<img src="https://i.postimg.cc/cLt70z0q/photo1657480963.jpg">
 
 ### Prototipo de alta fidelidad
-<img src="https://i.postimg.cc/yNrbVy6g/Slide-16-9-1.png" widht="600" height="450">
+<img src="https://i.postimg.cc/yNrbVy6g/Slide-16-9-1.png">
